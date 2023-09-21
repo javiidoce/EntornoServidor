@@ -6,6 +6,7 @@
     <title>Document</title>
 </head>
 <body>
+    <!--comentarios de prueba-->
     <?php
         $n=$_GET["numero"];
         $nn=$n*$n;
